@@ -1,5 +1,6 @@
 # Moving_balls
  A small GUI app built with Python Tkinter and threading. Animates bouncing balls with a lifespan, color, and real-time count.
+ Just a PL course HW code
 
 ## Features
 - Right-click to spawn up to 10 balls
